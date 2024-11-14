@@ -1,4 +1,4 @@
-h1 OnlineShoppingAPI
+#OnlineShoppingAPI
 Bu proje, bir online alışveriş platformu için çok katmanlı bir API geliştirmeyi amaçlar. Kullanıcıların kimlik doğrulama işlemleri JWT ile yapılmakta olup, kullanıcı, ürün ve sipariş yönetimini sağlamaktadır. Proje aynı zamanda Entity Framework Core, ASP.NET Core ve SQL Server gibi teknolojileri kullanarak güvenli ve modüler bir yapı sunar.
 
 Proje Özeti
